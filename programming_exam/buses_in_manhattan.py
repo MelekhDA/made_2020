@@ -1,7 +1,5 @@
 from math import factorial
 
-results = []
-
 for i in range(int(input())):
     arr = {}
 
